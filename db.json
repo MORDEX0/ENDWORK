@@ -1,0 +1,6 @@
+{
+    "products": [
+      { "id": 1, "name": "PvZ T-shirt", "image": "tshirt.jpg", "price": 19.99, "category": "Apparel" },
+      { "id": 2, "name": "PvZ Mug", "image": "mug.jpg", "price": 9.99, "category": "Accessories" }
+    ]
+  }
